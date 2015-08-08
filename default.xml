@@ -633,7 +633,7 @@
   <project path="external/svox" name="platform/external/svox" groups="pdk-cw-fs" remote="linaro" />
   
   <!-- UBER Toolchains -->
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="UBERTC/arm-eabi-4.8" remote="bitbucket" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="UBERTC/arm-linux-androideabi-4.8" remote="bitbucket" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="TeslaOS/arm-eabi-4.8-uber" remote="github" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="TeslaOS/arm-linux-androideabi-4.8-uber" remote="github" revision="master" />
 
 </manifest>
