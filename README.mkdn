@@ -9,9 +9,8 @@ familiar with [Repo](https://source.android.com/source/using-repo.html) and [Ver
 
 To initialize your local repository using the TeslaOS trees, use a command like this:
 
-    repo init -u git://github.com/TeslaOS/android.git -b lp5.1
+    repo init -u git://github.com/TeslaOS/android.git -b mm6.0
 
 Then to sync up:
 
     repo sync
-
