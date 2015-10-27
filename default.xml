@@ -574,5 +574,5 @@
 
   <!-- UBER Toolchains -->
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="TeslaOS/arm-eabi-4.8-uber" remote="github" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="TeslaOS/arm-linux-androideabi-4.8-uber" remote="github" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="TeslaOS/arm-linux-androideabi-4.9-uber" remote="github" revision="master" />
 </manifest>
