@@ -57,6 +57,7 @@
   <project path="packages/apps/TeslaOSUpdateCenter" name="android_packages_apps_TeslaOSUpdateCenter" remote="teslaos" />
   <!-- <project path="frameworks/webview" name="SlimSaber/android_frameworks_webview" remote="github" revision="lp5.1" /> -->
   <project path="external/sepolicy" name="android_external_sepolicy" remote="teslaos" groups="pdk" />
+  <project path="external/lz4" name="android_external_lz4" remote="teslaos" groups="pdk-cw-fs,pdk-fs" />
 
 <!-- BEGIN CYANOGENMOD -->
   <project path="art" name="CyanogenMod/android_art" groups="pdk" />
@@ -126,7 +127,6 @@
   <project path="external/libxslt" name="CyanogenMod/android_external_libxslt" />
   <project path="external/libtruezip" name="CyanogenMod/android_external_libtruezip" />
   <project path="external/lsof" name="CyanogenMod/android_external_lsof" />
-  <project path="external/lz4" name="CyanogenMod/android_external_lz4" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/lzma" name="CyanogenMod/android_external_lzma" groups="pdk" />
   <project path="external/lzo" name="CyanogenMod/android_external_lzo" />
   <project path="external/mksh" name="CyanogenMod/android_external_mksh" groups="pdk" />
