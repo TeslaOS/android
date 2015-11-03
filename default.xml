@@ -576,7 +576,6 @@
   <project path="external/javassist" name="platform/external/javassist" groups="pdk-cw-fs" remote="linaro" />
   <project path="external/linux-tools-perf" name="platform/external/linux-tools-perf" groups="pdk-cw-fs,pdk-fs" remote="linaro" />
   <project path="external/llvm" name="platform/external/llvm" groups="pdk" remote="linaro" />
-  <project path="external/openssl" name="platform/external/openssl" remote="linaro" />
   <project path="external/svox" name="platform/external/svox" groups="pdk-cw-fs" remote="linaro" />
 
   <!-- UBER Toolchains -->
