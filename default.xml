@@ -55,7 +55,7 @@
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" groups="pdk-fs" remote="teslaos" />
   <project path="packages/apps/SetupWizard" name="android_packages_apps_SetupWizard" remote="teslaos" />
   <project path="packages/apps/TeslaOSUpdateCenter" name="android_packages_apps_TeslaOSUpdateCenter" remote="teslaos" />
-  <!-- <project path="frameworks/webview" name="SlimSaber/android_frameworks_webview" remote="github" revision="lp5.1" /> -->
+  <project path="external/chromium-webview" name="UBERMALLOW/external_chromium-webview" groups="pdk" remote="github" revision="master" />
   <project path="external/sepolicy" name="android_external_sepolicy" remote="teslaos" groups="pdk" />
   <project path="external/lz4" name="android_external_lz4" remote="teslaos" groups="pdk-cw-fs,pdk-fs" />
 
@@ -354,7 +354,7 @@
   <project path="external/ceres-solver" name="platform/external/ceres-solver" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/chromium-libpac" name="platform/external/chromium-libpac" groups="pdk-fs" remote="aosp" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" groups="pdk" remote="aosp" />
-  <project path="external/chromium-webview" name="platform/external/chromium-webview" groups="pdk" remote="aosp" />
+  <!--<project path="external/chromium-webview" name="platform/external/chromium-webview" groups="pdk" remote="aosp" />-->
   <project path="external/clang" name="platform/external/clang" groups="pdk" remote="aosp" />
   <project path="external/cmockery" name="platform/external/cmockery" groups="pdk-fs" remote="aosp" />
   <project path="external/compiler-rt" name="platform/external/compiler-rt" groups="pdk" remote="aosp" />
