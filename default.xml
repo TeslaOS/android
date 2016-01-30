@@ -58,6 +58,7 @@
   <project path="external/chromium-webview" name="UBERMALLOW/external_chromium-webview" groups="pdk" remote="github" revision="master" />
   <project path="external/sepolicy" name="android_external_sepolicy" remote="teslaos" groups="pdk" />
   <project path="external/lz4" name="android_external_lz4" remote="teslaos" groups="pdk-cw-fs,pdk-fs" />
+  <project path="frameworks/opt/cards" name="SlimRoms/frameworks_opt_cards" remote="github" revision="mm6.0" />
 
 <!-- BEGIN CYANOGENMOD -->
   <project path="art" name="CyanogenMod/android_art" groups="pdk" />
