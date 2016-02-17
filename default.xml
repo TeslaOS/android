@@ -4,7 +4,7 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
-           revision="refs/tags/android-5.1.1_r26" />
+           revision="refs/tags/android-5.1.1_r34" />
 
   <!-- CyanogenMod default -->
   <remote  name="cyanogenmod"
@@ -28,7 +28,7 @@
   <remote  name="linaro"
            fetch="git://android.git.linaro.org"
            review="review.android.git.linaro.org"
-           revision="refs/tags/android-5.1.1_r26" />
+           revision="refs/tags/android-5.1.1_r34" />
 
   <remote name="bitbucket"
           fetch="https://bitbucket.org/" />
