@@ -59,6 +59,8 @@
   <project path="frameworks/opt/cards" name="SlimRoms/frameworks_opt_cards" remote="github" revision="mm6.0" />
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="teslaos" />
   <project path="packages/apps/InCallUI" name="android_packages_apps_InCallUI" groups="pdk-fs" remote="teslaos" />
+  <project path="packages/apps/DUI" name="android_packages_apps_DUI" remote="teslaos" />
+  <project path="external/DUtils" name="DirtyUnicorns/android_external_DUtils" remote="github" revision="m" />
 
 <!-- BEGIN CYANOGENMOD -->
   <project path="art" name="CyanogenMod/android_art" groups="pdk" />
