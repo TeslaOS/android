@@ -59,6 +59,7 @@
   <project path="frameworks/opt/cards" name="SlimRoms/frameworks_opt_cards" remote="github" revision="mm6.0" />
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="teslaos" />
   <project path="packages/apps/InCallUI" name="android_packages_apps_InCallUI" groups="pdk-fs" remote="teslaos" />
+  <project path="device/qcom/sepolicy" name="TeslaOS-devices/android_device_qcom_sepolicy" remote="github" revision="mm6.0" />
 
 <!-- BEGIN CYANOGENMOD -->
   <project path="art" name="CyanogenMod/android_art" groups="pdk" />
@@ -75,7 +76,7 @@
   <project path="device/generic/goldfish" name="CyanogenMod/android_device_generic_goldfish" groups="pdk" />
   <project path="device/generic/mips" name="CyanogenMod/android_device_generic_mips" groups="pdk" />
   <project path="device/google/atv" name="CyanogenMod/android_device_google_atv" groups="device,fugu,broadcom_pdk,generic_fs" />
-  <project path="device/qcom/sepolicy" name="CyanogenMod/android_device_qcom_sepolicy" />
+  <!-- <project path="device/qcom/sepolicy" name="CyanogenMod/android_device_qcom_sepolicy" /> -->
   <project path="external/ahbottomnavigation" name="CyanogenMod/android_external_ahbottomnavigation" />
   <project path="external/android-clat" name="CyanogenMod/android_external_android-clat" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" groups="pdk-cw-fs,pdk-fs" />
