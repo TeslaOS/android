@@ -28,7 +28,7 @@
   <remote  name="linaro"
            fetch="git://android.git.linaro.org"
            review="review.android.git.linaro.org"
-           revision="refs/tags/android-6.0.1_r74" />
+           revision="refs/tags/android-6.0.1_r81" />
 
   <remote name="bitbucket"
           fetch="https://bitbucket.org/" />
